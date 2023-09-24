@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is already have both tailwind and bootstrap so need not to install again and agai
 
 ## Available Scripts
 
